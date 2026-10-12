@@ -1,0 +1,2 @@
+Este es un archivo de prueba 2 creado desde la rama dev.
+Demuestra el flujo de trabajo Git Flow.
